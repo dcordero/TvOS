@@ -1,0 +1,16 @@
+PODS:
+  - TvOS-SwiftTemplates (0.0.1)
+
+DEPENDENCIES:
+  - TvOS-SwiftTemplates (from `..`)
+
+EXTERNAL SOURCES:
+  TvOS-SwiftTemplates:
+    :path: ..
+
+SPEC CHECKSUMS:
+  TvOS-SwiftTemplates: 4f76c266f426de9f18a9f80fc02c1b9ce624be2f
+
+PODFILE CHECKSUM: dbd2d9c896a4b0b192fe796b04af3ccf105ede40
+
+COCOAPODS: 1.2.1
